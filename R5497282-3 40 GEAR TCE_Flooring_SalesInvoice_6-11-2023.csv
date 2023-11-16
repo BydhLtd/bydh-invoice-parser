@@ -1,0 +1,24 @@
+WorkOrder,PICCNO,Textbox8,Textbox9,Textbox10,Folio_Name,StreetAddress,StreetAddress3,StreetAddress2,Textbox19,StreetAddress5,Textbox18,NotesToTP,StreetAddress4,Textbox16,StreetAddress6,Textbox68,Textbox22,Textbox24,Textbox26,Work_Onsite_Date_Time,Work_Completed_Date_Time,Textbox50,TradeDescription,ItemCode,quantity1,Textbox15,Textbox6,StreetAddress11,StreetAddress13,StreetAddress15,Work_Done_Text,Textbox76,Textbox77,*AccountCode,*ContactName,*Description,*DueDate,*InvoiceDate,*Quantity,*TaxType,*UnitAmount,Currency,InventoryItemCode,Reference
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"FL COVERING UNDERLAY, S&F",6/12/2023,6/11/2023,3.1,No Tax,51.127,NZD,FMS150 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL, REM",6/12/2023,6/11/2023,3.1,No Tax,13.3515,NZD,FVN100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL <=4M2, LAY",6/12/2023,6/11/2023,3.1,No Tax,82.49549999999999,NZD,FVN200 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL 100MM HIGH SKIRTING, LAY",6/12/2023,6/11/2023,6.0,No Tax,24.939999999999998,NZD,FVN500 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL, AL COVE CAPPING",6/12/2023,6/11/2023,6.0,No Tax,26.004250000000003,NZD,FVN550 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,14.75,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,14.75,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,9.75,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,9.75,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,8.25,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,8.25,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,2.75,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,2.75,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,4.0,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,4.0,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET, LAY ",6/12/2023,6/11/2023,14.25,No Tax,45.633750000000006,NZD,FCA300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,14.25,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET UNDERLAY, LAY",6/12/2023,6/11/2023,4.0,No Tax,10.82525,NZD,FCA400 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"CARPET TO STAIRS, LAY",6/12/2023,6/11/2023,4.0,No Tax,65.82225,NZD,FCA500 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL, REM",6/12/2023,6/11/2023,1.5,No Tax,13.3515,NZD,FVN100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL <=4M2, LAY",6/12/2023,6/11/2023,1.5,No Tax,82.49549999999999,NZD,FVN200 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL 100MM HIGH SKIRTING, LAY",6/12/2023,6/11/2023,4.0,No Tax,24.939999999999998,NZD,FVN500 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"VINYL, AL COVE CAPPING",6/12/2023,6/11/2023,4.0,No Tax,26.004250000000003,NZD,FVN550 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA

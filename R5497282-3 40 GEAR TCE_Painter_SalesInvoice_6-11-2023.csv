@@ -1,0 +1,26 @@
+WorkOrder,PICCNO,Textbox8,Textbox9,Textbox10,Folio_Name,StreetAddress,StreetAddress3,StreetAddress2,Textbox19,StreetAddress5,Textbox18,NotesToTP,StreetAddress4,Textbox16,StreetAddress6,Textbox68,Textbox22,Textbox24,Textbox26,Work_Onsite_Date_Time,Work_Completed_Date_Time,Textbox50,TradeDescription,ItemCode,quantity1,Textbox15,Textbox6,StreetAddress11,StreetAddress13,StreetAddress15,Work_Done_Text,Textbox76,Textbox77,*AccountCode,*ContactName,*Description,*DueDate,*InvoiceDate,*Quantity,*TaxType,*UnitAmount,Currency,InventoryItemCode,Reference
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,6.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"DECORATING DAYWORK, LABOUR",6/12/2023,6/11/2023,1.0,No Tax,51.75,NZD,DAA100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,6.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,PAINT W/ROBE OR CUPBD,6/12/2023,6/11/2023,2.0,No Tax,228.55,NZD,DPI300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,12.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,PAINT W/ROBE OR CUPBD,6/12/2023,6/11/2023,1.0,No Tax,228.55,NZD,DPI300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"STOPPING PATCH, S&F",6/12/2023,6/11/2023,1.0,No Tax,20.56,NZD,DPL110 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PLSTR STOPPING, WALL/CEILING",6/12/2023,6/11/2023,4.0,No Tax,18.33,NZD,DPL120 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,7.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PLSTR STOPPING, WALL/CEILING",6/12/2023,6/11/2023,2.0,No Tax,18.33,NZD,DPL120 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,6.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PLSTR STOPPING, WALL/CEILING",6/12/2023,6/11/2023,3.0,No Tax,18.33,NZD,DPL120 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,8.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,PAINT INT JOINERY CABINETS,6/12/2023,6/11/2023,6.0,No Tax,100.23,NZD,DPI420 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"BENCHTOP TIM, RESURFACE",6/12/2023,6/11/2023,1.5,No Tax,61.16,NZD,DPI440 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,6.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,PAINT GLAZING PUTTY,6/12/2023,6/11/2023,4.0,No Tax,1.62,NZD,DPE140 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,12.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"STOPPING PATCH, S&F",6/12/2023,6/11/2023,1.0,No Tax,20.56,NZD,DPL110 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PLSTR STOPPING, WALL/CEILING",6/12/2023,6/11/2023,3.0,No Tax,18.33,NZD,DPL120 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,6.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PREP, SEAL PAPER OR NEW GIB",6/12/2023,6/11/2023,6.0,No Tax,6.22,NZD,DPI920 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"PLSTR STOPPING, WALL/CEILING",6/12/2023,6/11/2023,3.0,No Tax,18.33,NZD,DPL120 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,"ADDITIONAL PREP, WALL/CEILING",6/12/2023,6/11/2023,4.0,No Tax,8.48,NZD,DAP100 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,Spotless,REDECORATE WHOLE INTERIOR 3BED,6/12/2023,6/11/2023,1.0,No Tax,10067.18,NZD,DRH300 new,R5497282-3 - 40 GEAR TCE  PORIRUA EAST PORIRUA
